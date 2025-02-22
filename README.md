@@ -43,9 +43,11 @@ npm start
 npm run dev  # If using Next.js
 ```
 🔗 Live Demo
+
 🌐 Visit the Website
 
 🤝 Contributing
+
 Feel free to contribute! Follow these steps:
 1. Fork the repo
 2. Create a new branch (feature/new-feature)
@@ -54,7 +56,10 @@ Feel free to contribute! Follow these steps:
 5. Create a Pull Request
 
 📜 License
-This project is licensed under the MIT License.
+
+This project is licensed under the Apache License 2.0
+
 
 👨‍💻 Developed by Ashish Kumar Yadav
+
 📩 Contact: therealashish00@gmail.com.com
